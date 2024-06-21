@@ -1,0 +1,10 @@
+Car,Toyota,Corolla,2019
+Car,Ford,Focus,2018
+Car,Honda,Civic,2020
+Car,Chevrolet,Malibu,2017
+Car,Nissan,Altima,2021
+Truck,Mercedes,Actros,2020
+Truck,Volvo,FH,2019
+Truck,Scania,R450,2018
+Truck,MAN,TGX,2021
+Truck,DAF,XF,2017
