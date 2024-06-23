@@ -7,3 +7,12 @@ std::string Truck::getType() const {
     return "Truck";
 }
 
+Truck Truck::operator+(const Truck& other) const {
+    int combinedYear = this->year + other.year;
+    return Truck(this->make, this->model, combinedYear);
+}
+
+Truck Truck::operator-(const Truck& other) const {
+    int yearDifference = this->year - other.year;
+    return Truck(this->make, this->model, yearDifference);
+}

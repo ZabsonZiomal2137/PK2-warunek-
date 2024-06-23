@@ -8,3 +8,4 @@ Truck,Volvo,FH,2019
 Truck,Scania,R450,2018
 Truck,MAN,TGX,2021
 Truck,DAF,XF,2017
+Car,Toyota,Yaris,2014

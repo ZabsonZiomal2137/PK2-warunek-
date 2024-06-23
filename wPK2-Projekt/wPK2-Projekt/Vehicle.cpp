@@ -19,4 +19,3 @@ std::ostream& operator<<(std::ostream& os, const Vehicle& vehicle) {
     os << vehicle.year << " " << vehicle.make << " " << vehicle.model << " (" << vehicle.getType() << ")";
     return os;
 }
-

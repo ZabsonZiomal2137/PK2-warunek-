@@ -28,7 +28,7 @@ int main() {
     while (true) {
         printMenu();
         std::cin >> choice;
-        std::cin.ignore(); // Ignore newline after choice input
+        std::cin.ignore(); 
 
         if (choice == 9) break;
 

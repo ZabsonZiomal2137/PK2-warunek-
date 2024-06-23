@@ -138,10 +138,12 @@
   <ItemGroup>
     <ClInclude Include="Car.h" />
     <ClInclude Include="Customer.h" />
+    <ClInclude Include="RegularCustomer.h" />
     <ClInclude Include="RentalSystem.h" />
     <ClInclude Include="Reservation.h" />
     <ClInclude Include="Truck.h" />
     <ClInclude Include="Vehicle.h" />
+    <ClInclude Include="VIPCustomer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
